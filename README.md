@@ -1,4 +1,4 @@
-# Neural Style Transfer for Text and Chat | Season of Code Project
+# Neural Style Transfer for Text and Chat 
 
 pip install streamlit
 
